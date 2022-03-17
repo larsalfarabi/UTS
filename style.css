@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#wrapper{
+    width: 90%;
+    height: 900px;
+    margin: auto;
+}
+.kotak1{
+    width: 100%;
+    height: 30px;
+    background-color: red;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#images img{
+    margin: auto;
+    margin-top: 15px;
+    width: 90%;
+    border-radius: 20px;
+}
+.kotak2{
+    margin: auto;
+    margin-top: 10px;
+    height: 30px;
+    background-color: red;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+#article{
+    margin: 20px 0;
+
+}
+#article img{
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-right: 15px;
+}
+#article h1{
+    font-weight: 100;
+    font-size: 28px;
+}
+#article h2{
+    font-size: 20px;
+    font-weight: 100;
+    padding-bottom: 10px;
+}
+#article p{
+    font-size: 20px;
+    margin-bottom: 30px;
+    text-align: justify;
+}
+.copy{
+    font-size: 20px;
+    font-weight: 100;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+
